@@ -12,12 +12,12 @@ Untuk menggunakan proyek ini, ikuti langkah-langkah di bawah:
 
 1. Clone repositori ke lokal Anda:
     ```bash
-    git clone https://github.com/AutoFtBot/nama-repo.git
+    git clone https://github.com/AutoFTbot/TrakteerToTelegram
     ```
 
 2. Masuk ke direktori proyek:
     ```bash
-    cd nama-repo
+    cd TrakteerToTelegram
     ```
 
 3. Jalankan skrip Python menggunakan Python 3:
